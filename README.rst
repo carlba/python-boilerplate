@@ -20,6 +20,8 @@ Python Boilerplate
 
 Python Boilerplate contains all the boilerplate you need to create a Python package.
 
+This is just meant to trigger a travis build
+
 
 * Free software: MIT license
 * Documentation: https://python-boilerplate.readthedocs.io.
